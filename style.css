@@ -231,7 +231,7 @@ body {
 }
 
 #content nav .nav-link {
-	font-size: 16px;
+	font-size: 12px;
 	transition: .3s ease;
 }
 
@@ -425,6 +425,11 @@ body {
 	align-items: center;
 }
 
+/* #content main .box-info li .bx span {
+	display: flex;
+	justify-content: center;
+} */
+
 #content main .box-info li:nth-child(1) .bx1 {
 	background: var(--light-blue);
 	color: var(--blue);
@@ -435,10 +440,10 @@ body {
 	color: var(--yellow);
 }
 
-#content main .box-info li:nth-child(3) .bx {
+/* #content main .box-info li:nth-child(3) .bx {
 	background: var(--light-orange);
 	color: var(--orange);
-}
+} */
 
 #content main .box-info li .text h3 {
 	font-size: 24px;
