@@ -430,7 +430,7 @@ body {
 	justify-content: center;
 } */
 
-#content main .box-info li:nth-child(1) .bx1 {
+#content main .box-info li:nth-child(1) .bx {
 	background: var(--light-blue);
 	color: var(--blue);
 }
